@@ -63,17 +63,15 @@ THIN:
 END
 
 **Output:**  
+<img width="1080" height="638" alt="image" src="https://github.com/user-attachments/assets/e05bc694-d4d7-4550-873b-54150581a35e" />
+
 
 
 
 **Manual Calculatons:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="1460" height="937" alt="image" src="https://github.com/user-attachments/assets/e46084ee-ce96-4cde-a2af-b39f850fd444" />
+
 
 
 
