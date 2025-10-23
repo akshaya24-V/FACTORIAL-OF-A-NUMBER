@@ -64,13 +64,9 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
 
 
-
-**Manual Calculations:**  
+**Manual Calculatons:**  
 
 <br>
 <br>
